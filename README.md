@@ -1,10 +1,8 @@
-# Hi there, I'm Alexis! 👋
+# Welcome! 👋
 
-I am a recent **Information Science (Data Science & Analytics)** graduate from the **University of South Florida (2026)**. I am a data analyst and aspiring data scientist passionate about transforming complex datasets into actionable, high-impact insights. 
+I am a recent **Information Science (Data Science & Analytics)** graduate from the **University of South Florida (2026)**. I am a data analyst and aspiring data scientist.
 
-With a background in building predictive models, interactive dashboards, and geospatial intelligence, I look for data-driven ways to solve real-world problems. 
-
-🛡️ I hold an active **Top Secret / Sensitive Compartmented Information (TS/SCI)** security clearance and am highly interested in opportunities within **GovTech, Defense, and Mission-Critical Data Analytics**.
+🛡️ I currently possess active **Top Secret / Sensitive Compartmented Information (TS/SCI)** security clearance and am highly interested in opportunities within **GovTech, Defense, and Data Analytics**.
 
 ---
 
@@ -39,8 +37,6 @@ With a background in building predictive models, interactive dashboards, and geo
 ---
 
 ### 📬 Let's Connect!
-
-I am actively looking for full-time roles in data analytics and data science. Feel free to reach out if you'd like to collaborate or discuss open opportunities!
 
 * **Email:** [alexisli0641@gmail.com](mailto:alexisli0641@gmail.com)
 * **LinkedIn:** [linkedin.com/in/alexis-li-00-00-](https://www.linkedin.com/in/alexis-li-00-00-)
